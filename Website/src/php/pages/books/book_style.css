@@ -1,0 +1,73 @@
+.status.green::before {
+    background-color: #21ba45 !important;
+}
+
+.status:before {
+    content: "";
+    width: 7px;
+    height: 7px;
+    background-color: #21ba45;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.status.green2::before {
+    background-color: #21ba45 !important;
+}
+
+.status.red2::before {
+    background-color: #dc3545 !important;
+}
+
+.status.gray2::before {
+    background-color: #5f6661 !important;
+    background-color: #4a4c52;
+}
+
+.status.purple2::before {
+    background-color: #6f42c1 !important;
+}
+
+:after, :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+.status {
+    pointer-events: none;
+}
+
+.status {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    
+    text-transform: uppercase;
+    font: 700 12px "Karla",sans-serif;
+    position: relative;
+    padding-left: 15px;
+    width: 58px;
+}
+
+.status.green2 {
+    color: #21ba45 !important;
+}
+
+.status.red2 {
+    color: #dc3545 !important;
+}
+
+.status.gray2 {
+    color: #5f6661 !important;
+}
+
+.status.purple2 {
+    color: #6f42c1 !important;
+}
