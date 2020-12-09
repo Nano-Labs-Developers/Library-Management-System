@@ -20,7 +20,7 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 
 | CDN | README |
 | ------ | ------ |
-| Bootstrap | [getbootstrap.com](https://getbootstrap.com/docs/4.0/getting-started/introduction/) |
+| Bootstrap | [getbootstrap.com](https://getbootstrap.com/docs/4.0/getting-started/introduction/){:target="_blank"} |
 
 ##### Bootstrap
 ```
@@ -49,6 +49,6 @@ GPL-3.0 License
 
 # Links
 
-- [Sample for this web application](http://lowastatsuni.tk/)
-- [Xampp Server download](https://www.apachefriends.org/download.html)
+- [Sample for this web application](http://lowastatsuni.tk/){:target="_blank"}
+- [Xampp Server download](https://www.apachefriends.org/download.html){:target="_blank"}
 - [Documentation]()
