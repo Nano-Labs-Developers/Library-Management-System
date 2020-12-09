@@ -22,7 +22,7 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 | ------ | ------ |
 | Bootstrap | [getbootstrap.com](https://getbootstrap.com/docs/4.0/getting-started/introduction/) |
 
-##### Bootstrap
+##### Bootstrap 4
 ```
 CSS:
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css>
