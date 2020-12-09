@@ -20,8 +20,7 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 
 | CDN | README |
 | ------ | ------ |
-| Bootstrap | [plugins/dropbox/README.md][PlDb] |
-| MD5 | [plugins/github/README.md][PlGh] |
+| Bootstrap | [getbootstrap.com](https://getbootstrap.com/docs/4.0/getting-started/introduction/) |
 
 ##### Bootstrap
 ```
