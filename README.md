@@ -18,7 +18,7 @@ localhost
 
 Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
 
-| CDN | README |
+| CDN | LINK |
 | ------ | ------ |
 | Bootstrap | [getbootstrap.com](https://getbootstrap.com/docs/4.0/getting-started/introduction/) |
 
