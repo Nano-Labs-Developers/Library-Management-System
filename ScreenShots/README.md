@@ -19,7 +19,7 @@
 <br />
 
 # Manage Books
-![manage book](https://github.com/Nano-Labs-Developers/Library-Management-System/blob/main/ScreenShots/manage book.JPG)
+![manage book](https://github.com/Nano-Labs-Developers/Library-Management-System/blob/main/ScreenShots/manage_book.JPG)
 <br />
 
 # News Page
